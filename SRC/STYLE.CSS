@@ -1,0 +1,36 @@
+header { font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+margin-top: 25px;
+margin-bottom: 50px;}
+
+header a {color: #000;}
+header a:hover {color: #BCBCBC;
+    transition: all .2s ease-in-out;
+}
+
+#active {color: #253883;
+    font-size: 17px;}
+
+footer {text-align: center;
+font-size:14px;
+padding-top: 100px;}
+
+h1, h2, h4, h5 {font-family: 'Poppins';
+    color: #253883;}
+h3 {
+    color: #BCBCBC;
+}
+
+h5 {padding: 10px 0px;}
+
+#about {margin:0 auto;
+max-width: 55%;
+text-align: justify;}
+
+p
+{font-family: 'Raleway', sans-serif;
+font-size: 17px;
+line-height: 28px;}
+
+
+
