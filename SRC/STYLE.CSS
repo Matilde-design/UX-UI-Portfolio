@@ -12,7 +12,7 @@ header a:hover {color: #BCBCBC;
     font-size: 15px;}
 
 footer {text-align: center;
-    position: relative;
+    position: absolute;
     left:0;
     bottom:0;
     width: 100%;
