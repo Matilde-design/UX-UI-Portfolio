@@ -29,7 +29,8 @@ h3 {
 h5 {padding: 10px 0px;}
 
 #about {margin:0 auto;
-max-width: 55%;
+width: 900px;
+max-width: 100%;
 text-align: justify;}
 
 p, li
