@@ -64,3 +64,16 @@ color: #BCBCBC;}
 
 a {color: #253883;}
 a:hover {text-decoration: none;}
+
+.education-wrapper {
+    position: relative;
+    left: 60px;
+  }
+  .experience-wrapper{
+    position: relative;
+    margin-left: 20px;
+    left: 80px;
+  
+  }
+  .space { margin: 50px;
+  text-align: center;}
